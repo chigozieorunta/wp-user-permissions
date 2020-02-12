@@ -2,7 +2,7 @@
 /**
  * Plugin Name: User Permissiosn
  * Plugin URI:  https://github.com/chigozieorunta/wp-user-permissions
- * Description: A WordPress plugin that helps site owners display a dialog box to unregistered users who try to access certain areas that require registration.
+ * Description: A simple WordPress plugin that helps restrict unauthorized users to specific pages.
  * Version:     1.0.0
  * Author:      Chigozie Orunta
  * Author URI:  https://github.com/chigozieorunta

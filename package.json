@@ -1,0 +1,31 @@
+{
+    "name": "wp-user-permissions",
+    "version": "1.0.0",
+    "description": "A simple WordPress plugin that helps restrict unauthorized users to specific pages.",
+    "author": "Chigozie Orunta <chigozieorunta@yahoo.com> (https://github.com/chigozieorunta/wp-user-permissions)",
+    "license": "MIT",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/chigozieorunta/wp-user-permissions.git"
+    },
+    "keywords": [
+        "chigozieorunta",
+        "npm",
+        "package",
+        "user",
+        "permissions",
+        "restrictions",
+        "wordpress",
+        "login",
+        "pages",
+        "chigozie",
+        "orunta"
+    ],
+    "files": [
+        "wp-user-permissions.php",
+        "wp-user-permissions-html.php"
+    ]
+}

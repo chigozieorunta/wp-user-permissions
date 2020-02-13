@@ -15,6 +15,4 @@ Once installed, log into your WordPress admin dashboard and locate the plugin op
 WordPress
 
 ### Contributions
-Anyone and everyone is welcome to contribute. 
-=======
-A simple WordPress plugin that helps restrict unauthorized users to specific pages...
+Anyone and everyone is welcome to contribute.

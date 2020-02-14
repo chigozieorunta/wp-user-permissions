@@ -15,4 +15,4 @@ Once installed, log into your WordPress admin dashboard and locate the plugin op
 WordPress
 
 ### Contributions
-Anyone and everyone is welcome to contribute...
+Anyone and everyone is welcome to contribute.

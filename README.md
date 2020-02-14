@@ -1,6 +1,6 @@
 # wp-user-permissions
 
-A simple WordPress plugin that helps restrict unauthorized users to specific pages..
+A simple WordPress plugin that helps restrict unauthorized users to specific pages.
 
 ## NPM
 You can install directly via NPM to your project folder.
@@ -15,4 +15,4 @@ Once installed, log into your WordPress admin dashboard and locate the plugin op
 WordPress
 
 ### Contributions
-Anyone and everyone is welcome to contribute...
+Anyone and everyone is welcome to contribute.

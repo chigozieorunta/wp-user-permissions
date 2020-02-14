@@ -9,7 +9,7 @@ npm install wp-user-permissions
 ``` 
 
 ### Usage
-Once installed, log into your WordPress admin dashboard and locate the plugin option **User Permissions**, you should able to customize your user permission settings for each user roles.
+Once installed, log into your WordPress admin dashboard and locate the plugin option **User Permissions**, you should able to customize your user permission settings for each user roles in relation to your different pages.
 
 ### Requirements
 WordPress

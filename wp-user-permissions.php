@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: User Permissiosn
+ * Plugin Name: User Permissions
  * Plugin URI:  https://github.com/chigozieorunta/wp-user-permissions
  * Description: A simple WordPress plugin that helps restrict unauthorized users to specific pages.
  * Version:     1.0.0

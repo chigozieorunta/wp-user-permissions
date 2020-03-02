@@ -26,8 +26,8 @@ class wpUserPermissions {
 	 * @since  1.0.0
 	 */
     public function __construct() {
-		add_action('plugins_loaded', array($this, 'showModal'));
-		add_action('get_footer', array($this, 'customModal'));
+		add_action('plugins_loaded', array($this, 'showPermissions'));
+		//add_action('get_footer', array($this, 'customModal'));
 	}
 	
 	/**
@@ -36,7 +36,7 @@ class wpUserPermissions {
      * @access public 
 	 * @since  1.0.0
 	 */
-    public static function showModal() {
+    public static function showPermissions() {
 		//Get user role
 		$user = wp_get_current_user();
 		

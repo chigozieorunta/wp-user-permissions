@@ -67,12 +67,10 @@ class wpUserPermissions {
 	 * @since  1.0.0
 	 */
     public static function registerScripts() {
-		wp_register_style('wp-show-modal-styles', 'https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900');
-		wp_enqueue_style('wp-show-modal-styles');
-		wp_register_style('wp-show-modal-to-unregistered-users-css', plugin_dir_url(__FILE__).'css/wp-show-modal-to-unregistered-users.css');
-		wp_enqueue_style('wp-show-modal-to-unregistered-users-css');
-		wp_register_script('wp-show-modal-to-unregistered-users-js', plugin_dir_url(__FILE__).'js/wp-show-modal-to-unregistered-users.js', array('jquery'), '1', true);
-		wp_enqueue_script('wp-show-modal-to-unregistered-users-js');
+		wp_register_style('wp-user-permissions-css', plugin_dir_url(__FILE__).'css/wp-user-permissions.css');
+		wp_enqueue_style('wp-user-permissions-css');
+		wp_register_script('wp-user-permissions-js', plugin_dir_url(__FILE__).'js/wp-user-permissions.js', array('jquery'), '1', true);
+		wp_enqueue_script('wp-user-permissions-js');
     }
 
     /**

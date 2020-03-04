@@ -27,7 +27,6 @@ class wpUserPermissions {
 	 */
     public function __construct() {
 		add_action('plugins_loaded', array($this, 'showPermissions'));
-		//add_action('get_footer', array($this, 'customModal'));
 	}
 	
 	/**
